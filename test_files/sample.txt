@@ -1,0 +1,3 @@
+AGENTSENTRY safe file monitoring test
+Testing AGENTSENTRY file monitoring
+AGENTSENTRY logging test
